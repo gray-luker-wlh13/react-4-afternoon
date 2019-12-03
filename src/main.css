@@ -81,3 +81,8 @@ a {
   width: 60%;
   margin: 0 auto;
 }
+
+.arrow-button {
+  width: 75px;
+  height: 40px; 
+}
